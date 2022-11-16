@@ -1,0 +1,42 @@
+body {
+    font-weight: bold;
+}
+
+.btn-spac {
+    margin-right: 5px;
+}
+
+.section-1 {
+    background-color: #d4e9e2;
+}
+
+
+
+.section-2-text-1 {
+    font-size: 24px;
+    color: white;
+}
+
+.section-2-text-2 {
+    font-size: 18px;
+    color: white;
+}
+
+.section-2 {
+    background-color: #006241;
+}
+
+.section-3 {
+    background-color: #006241;
+}
+
+a:hover {
+    text-decoration: #006241;
+    text-decoration: none;
+}
+
+.location {
+    display: flex;
+    flex-direction: row;
+
+}
